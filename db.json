@@ -1,0 +1,29 @@
+{
+  "posts": [
+    {
+      "id": 5,
+      "name": "asdasdads",
+      "class": "54",
+      "email": "sadsassa",
+      "mobile": "3212135545"
+    },
+    {
+      "id": 6,
+      "name": "sds",
+      "class": "6",
+      "email": "sawsa",
+      "mobile": "6"
+    },
+    {
+      "id": 7,
+      "name": "vikas",
+      "class": "22",
+      "email": "jbsa@gmail.com",
+      "mobile": "455445"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "tyicode"
+  }
+}
